@@ -12,4 +12,4 @@
 - Design the screen to display the firing position
 - Weapon switching mechanism(including bullet)
 
-Android executable
+Android executable(In Release)
